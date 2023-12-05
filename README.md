@@ -11,4 +11,6 @@ List of things I love:
 
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| ------ | ------ | ------- | --------- | -------- | ------ | -------- |
+|  |  |  |  |  |  |  |
+
+[bruno mars playlist](<iframe width="560" height="315" src="https://www.youtube.com/embed/07BTQBu5oM4?si=kk_KN3GuwyoS7EUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
